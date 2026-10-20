@@ -26,8 +26,8 @@ Access and download the archived project folders below:
 
 | Directory / Pack Name | Download Link |
 | :--- | :--- |
-| 📁 **GTA WARGA STIT SIT** | [Download via MediaFire](https://mediafire.com) |
-| 📁 **GTA ROBARY BY IWIR JAWIER** | [Download via MediaFire](https://mediafire.com) |
+| 📁 **GTA WARGA STIT SIT** | [MediaFire](https://www.mediafire.com/file/ij748ibj91mmzv0/GTA+WARGA+STIT+SIT+By+Nyelwest.rar/file) |
+| 📁 **GTA ROBARY BY IWIR JAWIER** | [MediaFire](https://www.mediafire.com/file/cgku3nsk8gz8376/GTA+ROBARY+BY+IWIR+JAWIER.rar/file) |
 
 ---
 ## 🌐 Connect With Me
