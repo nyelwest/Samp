@@ -1,2 +1,17 @@
-# Samp-
-Made by Nyel on date 20/10/2026
+# GTA: Sa project file by: nYel
+
+## description:
+created by nyel to backup samp files and maybe this will be the last memory in the future 10/20/2026
+
+### folder:
+
+* GTA WARGA STIT SIT: https://www.mediafire.com/file/ij748ibj91mmzv0/GTA+WARGA+STIT+SIT+By+Nyelwest.rar/file
+
+* GTA ROBARY BY IWIR JAWIER:
+https://www.mediafire.com/file/cgku3nsk8gz8376/GTA+ROBARY+BY+IWIR+JAWIER.rar/file
+
+# contact me
+* https://discord.com/users/1145608106533982258
+
+
+
