@@ -1,4 +1,8 @@
-## ⚖️ Disclaimer & License
+# ⚖️ Disclaimer & License / Penolakan Tanggung Jawab & Lisensi
+
+---
+
+## 🇬🇧 English Version
 
 ### 🎮 Intellectual Property & Fan Work Notice
 * **Grand Theft Auto: San Andreas** and all associated assets, titles, logos, characters, and trademarks are the exclusive property of **Rockstar Games** and **Take-Two Interactive Software, Inc.**
@@ -10,8 +14,9 @@
 * All third-party modifications, community scripts, and custom game files (including SA-MP, CLEO, LUA, and community packs) belong to their respective original authors and creators.
 * If you are a copyright holder or content creator and believe that any material in this repository infringes upon your intellectual property rights, please contact me directly via Discord to request immediate removal.
 
+---
 
-## ⚖️ Penolakan Tanggung Jawab & Lisensi (Disclaimer)
+## 🇮🇩 Versi Bahasa Indonesia
 
 ### 🎮 Pemberitahuan Hak Cipta & Karya Penggemar
 * **Grand Theft Auto: San Andreas** beserta seluruh aset, judul, logo, karakter, dan hak merek dagang yang terkandung di dalamnya adalah hak milik eksklusif dari **Rockstar Games** dan **Take-Two Interactive Software, Inc.**
@@ -22,4 +27,4 @@
 * Seluruh skrip kustom, alat, dan konfigurasi yang dibuat langsung oleh **nYel** di dalam repositori ini didistribusikan di bawah **[MIT License](https://opensource.org/licenses/MIT)**, kecuali dinyatakan lain.
 * Seluruh modifikasi pihak ketiga, skrip komunitas, dan berkas game kustom (termasuk SA-MP, CLEO, LUA, serta *modpack* komunitas) adalah milik penuh dari para pembuat/kreator aslinya masing-masing.
 * Apabila Anda adalah pemegang hak cipta atau kreator konten yang merasa terdapat materi di dalam repositori ini yang melanggar hak kekayaan intelektual Anda, silakan hubungi saya secara langsung melalui Discord untuk pengajuan penghapusan berkas (*takedown*).
-
+* 
