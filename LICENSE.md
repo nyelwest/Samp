@@ -10,7 +10,14 @@ Hak cipta © 2026 **nYel**. Seluruh hak dilindungi, kecuali yang secara tegas di
 > If the English and Indonesian versions differ, the English version prevails.
 > Jika terdapat perbedaan antara versi Inggris dan Indonesia, versi Inggris yang berlaku.
 
+<div align="center">
+  
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@nyelsu)
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white)](https://discord.gg/R8rzBdDa4p)
+[![Discord DM](https://img.shields.io/badge/Discord-Direct%20Chat-7289DA?logo=discord&logoColor=white)](https://discord.com/users/1145608106533982258)
+</div>
 ---
+
 
 ## 🇬🇧 English
 
@@ -101,3 +108,13 @@ Grand Theft Auto, San Andreas, serta nama, aset, dan merek dagang terkait adalah
 ### 10. Kontak
 - Discord: <https://discord.gg/R8rzBdDa4p>
 - YouTube: <https://youtube.com/@nyelsu>
+
+
+
+  
+<div align="center">
+  
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@nyelsu)
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white)](https://discord.gg/R8rzBdDa4p)
+[![Discord DM](https://img.shields.io/badge/Discord-Direct%20Chat-7289DA?logo=discord&logoColor=white)](https://discord.com/users/1145608106533982258)
+</div>
