@@ -15,12 +15,12 @@
   </p>
   <br/>
   <!-- Banner Image -->
-  <img src="./Proyek%20Baru%20%5BDA1572F%5D.png" width="100%" alt="GTA SA-MP Banner">
+  <img src="./banner.png" width="100%" alt="GTA SA-MP Banner">
 </div>
----
+
 ## 📌 About The Project
 This repository serves as a personal backup and archive for SA-MP (San Andreas Multiplayer) files and custom mods created by **nYel**. Created on **October 20, 2026**, this project preserves nostalgic memories, server configurations, and game packs for future reference.
----
+
 ## 📥 Download Directory
 Access and download the archived project folders below:
 
