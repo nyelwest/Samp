@@ -22,16 +22,18 @@
 This repository is a personal backup and archive of SA-MP (San Andreas Multiplayer) files and custom projects by **nYel**.
 Created on **October 20, 2026**, it preserves nostalgic memories, configurations, and packs for future reference.
 
-## 📥 Downloads
+## 📥 Download
 
-| Pack | Format | Download |
-| :--- | :----: | :------- |
-| 📁 **GTA WARGA STIT SIT** | `.rar` | [Download on MediaFire](https://www.mediafire.com/file/ij748ibj91mmzv0/GTA+WARGA+STIT+SIT+By+Nyelwest.rar/file) |
-| 📁 **GTA ROBARY BY IWIR JAWIER** | `.rar` | [Download on MediaFire](https://www.mediafire.com/file/cgku3nsk8gz8376/GTA+ROBARY+BY+IWIR+JAWIER.rar/file) |
+<div align="center">
 
-> [!NOTE]
-> Both packs are `.rar` archives. Extract them with [7-Zip](https://www.7-zip.org/) or WinRAR.
+[![Download](https://img.shields.io/badge/Download-Go%20to%20Releases-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nyelwest/Samp/releases)
 
+</div>
+
+1. Click the button above (or the **Releases** tab on the right side of this page).
+2. Choose the pack you want.
+3. Scroll down to **Assets** and download the `.rar` file. Ignore the "Source code" files, they are not the pack.
+4. Extract with [7-Zip](https://www.7-zip.org/) or WinRAR, then follow the **Installation** steps below.
 ## 🛠️ Installation
 
 1.provide sufficient storage then extract to local disk: c.
