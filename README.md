@@ -35,9 +35,12 @@ Created on **October 20, 2026**, it preserves nostalgic memories, configurations
 ## 🛠️ Installation
 
 1.provide sufficient storage then extract to local disk: c.
-2. Open the extracted folder and look for **SAMP.EXE**.
-3. open and enter your username on your server.
-4. Pay attention to files such as lua, cs, asi to avoid your account being hacked or banned due to the use of illegal files. 
+
+2.Open the extracted folder and look for **SAMP.EXE**.
+
+3.Open and enter your username on your server.
+
+4.Pay attention to files such as lua, cs, asi to avoid your account being hacked or banned due to the use of illegal files. 
 
 > [!IMPORTANT]
 > No need to delete any GTA folders you have, just run it, if it crashes, delete some files that you think are useless.
